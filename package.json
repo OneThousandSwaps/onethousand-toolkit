@@ -1,8 +1,7 @@
 {
   "name": "onethousand-toolkit",
   "version": "1.0.0",
-  "description": "Pancake frontend packages",
-  "private": true,
+  "description": "One thousand frontend packages",
   "workspaces": [
     "packages/*"
   ],
