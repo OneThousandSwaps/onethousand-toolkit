@@ -1,14 +1,14 @@
 {
-  "name": "@pancakeswap/uikit",
-  "version": "0.33.1",
-  "description": "Set of UI components for pancake projects",
+  "name": "@onekswaps/uikit",
+  "version": "1.0.0",
+  "description": "Set of UI components for One Thousand projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit",
+  "repository": "https://github.com/OneThousandSwaps/onethousand-toolkit/tree/master/packages/onethousand-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",

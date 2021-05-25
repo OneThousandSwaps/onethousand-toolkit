@@ -1,5 +1,5 @@
 {
-  "name": "pancake-toolkit",
+  "name": "onethousand-toolkit",
   "version": "1.0.0",
   "description": "Pancake frontend packages",
   "private": true,
@@ -8,13 +8,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pancakeswap/pancake-toolkit.git"
+    "url": "git+https://github.com/OneThousandSwaps/onethousand-toolkit.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pancakeswap/pancake-toolkit/issues"
+    "url": "https://github.com/OneThousandSwaps/onethousand-toolkit/issues"
   },
-  "homepage": "https://github.com/pancakeswap/pancake-toolkit#readme",
+  "homepage": "https://github.com/OneThousandSwaps/onethousand-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
