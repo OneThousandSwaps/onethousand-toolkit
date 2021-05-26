@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/OneThousandSwaps/onethousand-toolkit/tree/master/packages/onethousand-uikit/compare/@onekswaps/uikit@1.0.2...@onekswaps/uikit@1.1.0) (2021-05-26)
+
+
+### Features
+
+* **uikit:** Test color ([4f2ca63](https://github.com/OneThousandSwaps/onethousand-toolkit/tree/master/packages/onethousand-uikit/commit/4f2ca6329e0654af9c1c0c8ac0da05eba1eb2cf1))
+
+
+
+
+
 ## [1.0.2](https://github.com/OneThousandSwaps/onethousand-toolkit/tree/master/packages/onethousand-uikit/compare/@onekswaps/uikit@1.0.1...@onekswaps/uikit@1.0.2) (2021-05-25)
 
 **Note:** Version bump only for package @onekswaps/uikit
